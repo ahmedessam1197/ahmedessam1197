@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ahmed Essam</h1>
-<h3 align="center">Junior DevOps Engineer</h3>
+# 👋 Hi, I'm Ahmed Essam
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ahmed%20Essam%20|%20DevOps%20Engineer&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps%20Engineer;DevSecOps%20Enthusiast;Docker%20%7C%20Kubernetes%20%7C%20CI/CD;Automation%20Lover&center=true&width=500&height=45">
+</p>
 
 ---
 
