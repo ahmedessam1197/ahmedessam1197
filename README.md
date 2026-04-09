@@ -1,74 +1,120 @@
-# 👋 Hi, I'm Ahmed Essam
+<h1 align="center">Hi 👋, I'm Ahmed Essam</h1>
+<h3 align="center">Junior DevOps | DevSecOps Engineer</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ahmed%20Essam%20|%20DevOps%20Engineer&fontSize=40&fontColor=ffffff"/>
+DevOps Engineer passionate about Automation, Cloud Infrastructure, and Kubernetes
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-- Junior DevOps Engineer
-- Interested in Cloud & DevSecOps
-- Passionate about Automation and Kubernetes
-
----
-
-# 👋 Hi, I'm Ahmed Essam
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ahmed%20Essam%20|%20DevOps%20Engineer&fontSize=40&fontColor=ffffff"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps%20Engineer;DevSecOps%20Enthusiast;Docker%20%7C%20Kubernetes%20%7C%20CI/CD;Automation%20Lover&center=true&width=500&height=45">
-</p>
+- 🔭 Currently working on **DevOps & DevSecOps Projects**
+- 🌱 Learning **Advanced Kubernetes & Cloud Security**
+- 💬 Ask me about **Docker, Kubernetes, Jenkins, Terraform**
+- ⚡ Fun fact: I love automating everything 🤖
 
 ---
 
-# ☁️ Cloud & DevOps Stack
+## 🛠 DevOps Tools & Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,git,github,prometheus,grafana"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 
 </p>
 
 ---
 
-# 🔐 DevSecOps Tools
+## 🔐 DevSecOps Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Trivy-Container%20Security-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SonarQube-Code%20Quality-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Trivy-SecurityScan-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SonarQube-CodeQuality-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kubernetes-Secure%20Deployment-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# ☸️ Kubernetes Architecture
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*2v2Q3Vh3Jrped1IovnHgwg.png" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedessam1197&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedessam1197&theme=tokyonight"/>
 
 </p>
 
 ---
 
-### 🔥 DevOps Projects
+## 📈 Top Languages
 
-- Python Web Application Deployment (Docker + Kubernetes + Jenkins)
-- DevSecOps Kubernetes Microservices Platform
-- CI/CD Pipeline with Jenkins
-- Monitoring with Prometheus & Grafana
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedessam1197&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-### 📫 Contact Me
+## 🚀 DevOps Projects
 
-- LinkedIn: (ضع لينك لينكدان)
-- Email: (ايميلك)
+🔥 **Python Web Application Deployment**
+
+- Docker
+- Kubernetes
+- Jenkins
+- CI/CD Pipeline
+
+🔥 **DevSecOps Kubernetes Platform**
+
+- Kubernetes Microservices
+- Trivy Security Scan
+- Jenkins Pipeline
+- Secure Deployment
+
+🔥 **Monitoring Stack**
+
+- Prometheus
+- Grafana
+- Kubernetes Monitoring
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ahmedessam1197&color=blue"/>
+
+</p>
+
+---
+
+⭐ From [Ahmed Essam](https://github.com/ahmedessam1197)
