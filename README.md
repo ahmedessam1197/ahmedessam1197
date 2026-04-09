@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ahmed Essam</h1>
-<h3 align="center">Junior DevOps | DevSecOps Engineer</h3>
+# 👋 Hi, I'm Ahmed Essam
 
 <p align="center">
-DevOps Engineer passionate about Automation, Cloud Infrastructure, and Kubernetes
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ahmed%20Essam%20|%20DevOps%20Engineer&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps%20Engineer;DevSecOps%20Enthusiast;Docker%20%7C%20Kubernetes%20%7C%20CI/CD;Automation%20Lover&center=true&width=500&height=45">
 </p>
 
 ---
@@ -32,14 +35,24 @@ DevOps Engineer passionate about Automation, Cloud Infrastructure, and Kubernete
 
 ---
 
-## 🔐 DevSecOps Tools
+# ☁️ Cloud & DevOps Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Trivy-SecurityScan-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SonarQube-CodeQuality-green?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,git,github,prometheus,grafana"/>
+
+</p>
+
+---
+
+# 🔐 DevSecOps Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Trivy-Container%20Security-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SonarQube-Code%20Quality-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-Secure%20Deployment-blue?style=for-the-badge"/>
 
 </p>
 
