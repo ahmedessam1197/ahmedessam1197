@@ -42,28 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedessam1197&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedessam1197&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedessam1197&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🚀 DevOps Projects
 
 🔥 **Python Web Application Deployment**
