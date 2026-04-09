@@ -1,51 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ahmed Essam</h1>
-<h3 align="center">Junior DevOps | DevSecOps Engineer</h3>
+# 👋 Hi, I'm Ahmed Essam
 
 <p align="center">
-DevOps Engineer passionate about Automation, Cloud Infrastructure, and Kubernetes
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ahmed%20Essam%20|%20DevOps%20Engineer&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps%20Engineer;DevSecOps%20Enthusiast;Docker%20%7C%20Kubernetes%20%7C%20CI/CD;Automation%20Lover&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 🔭 Currently working on **DevOps & DevSecOps Projects**
-- 🌱 Learning **Advanced Kubernetes & Cloud Security**
-- 💬 Ask me about **Docker, Kubernetes, Jenkins, Terraform**
-- ⚡ Fun fact: I love automating everything 🤖
+🚀 Junior DevOps Engineer passionate about automation, cloud infrastructure, and secure deployments.
+
+* 🔭 Working on **DevOps & DevSecOps Projects**
+* 🌱 Learning **Advanced Kubernetes & Cloud Security**
+* 💬 Ask me about **Docker, Kubernetes, Jenkins, Terraform**
+* ⚡ Love automating everything
 
 ---
 
-## 🛠 DevOps Tools & Technologies
+# ☁️ Cloud & DevOps Stack
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,git,github,prometheus,grafana"/>
 
 </p>
 
 ---
 
-## 🔐 DevSecOps Tools
+# 🔐 DevSecOps Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Trivy-SecurityScan-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SonarQube-CodeQuality-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Trivy-Container%20Security-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SonarQube-Code%20Quality-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-Secure%20Deployment-blue?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# ☸️ Kubernetes Architecture
+
+<p align="center">
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*2v2Q3Vh3Jrped1IovnHgwg.png" width="700"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -57,7 +66,7 @@ DevOps Engineer passionate about Automation, Cloud Infrastructure, and Kubernete
 
 ---
 
-## 📈 Top Languages
+# 📈 Top Languages
 
 <p align="center">
 
@@ -67,31 +76,33 @@ DevOps Engineer passionate about Automation, Cloud Infrastructure, and Kubernete
 
 ---
 
-## 🚀 DevOps Projects
+# 📊 Contribution Graph
 
-🔥 **Python Web Application Deployment**
+<p align="center">
 
-- Docker
-- Kubernetes
-- Jenkins
-- CI/CD Pipeline
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedessam1197&theme=tokyonight"/>
 
-🔥 **DevSecOps Kubernetes Platform**
-
-- Kubernetes Microservices
-- Trivy Security Scan
-- Jenkins Pipeline
-- Secure Deployment
-
-🔥 **Monitoring Stack**
-
-- Prometheus
-- Grafana
-- Kubernetes Monitoring
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🐍 Contribution Snake
+
+![snake](https://github.com/ahmedessam1197/ahmedessam1197/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ahmedessam1197&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -107,14 +118,4 @@ DevOps Engineer passionate about Automation, Cloud Infrastructure, and Kubernete
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ahmedessam1197&color=blue"/>
-
-</p>
-
----
-
-⭐ From [Ahmed Essam](https://github.com/ahmedessam1197)
+⭐ From **Ahmed Essam**
