@@ -62,8 +62,7 @@
 
 - Prometheus
 - Grafana
-- Kubernetes Monitoring
-
+- Nginx
 ---
 
 ## 📫 Connect With Me
